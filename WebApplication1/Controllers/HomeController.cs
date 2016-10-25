@@ -13,6 +13,7 @@ namespace WebApplication1.Controllers
             ViewBag.Title = "Master Home Page";
             //Master Page Changes
             //ABCD Changes
+            //Master New chnages
             return View();
         }
     }
