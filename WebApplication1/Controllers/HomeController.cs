@@ -11,6 +11,7 @@ namespace WebApplication1.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Master Home Page";
+            //Master Page Changes
             return View();
         }
     }
