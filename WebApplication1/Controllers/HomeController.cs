@@ -10,7 +10,7 @@ namespace WebApplication1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Master Home Page";
 
             return View();
         }
